@@ -19,16 +19,16 @@ Internal refers to the game of life logic working at the lowest level of the dev
 * Ableton Standard/Suite [12+]
 
 ### Setup
-* Upload Arduino code to Arduino^{1, 2}
+* Upload Arduino code to Arduino$^{1, 2}$
 * Close Ardunio so there is not two applications reading the Serial messages in
-* Run 'Cela_internal_bridge' and check that you are getting a signal through^{3}
-* Open Ableton Live and add Cela to a new MIDI Track^{4}
+* Run 'Cela_internal_bridge' and check that you are getting a signal through$^{3}$
+* Open Ableton Live and add Cela to a new MIDI Track$^{4}$
 * Check that Cela is connected to Ableton
 
-^{1} - You may need to reconfigure your pin setup
-^{2} - For Versions other than Windows you will need to check the Trellis Package from Adafruits
-^{3} - You may need to update the COM6 to your Serial input port, again this will be different depending on if you are using something other than Windows
-^{4} - You will only be able to have one Cela working at a time. You may need to adjust the udp address and port
+$^{1}$ - You may need to reconfigure your pin setup
+$^{2}$ - For Versions other than Windows you will need to check the Trellis Package from Adafruits
+$^{3}$ - You may need to update the COM6 to your Serial input port, again this will be different depending on if you are using something other than Windows
+$^{4}$ - You will only be able to have one Cela working at a time. You may need to adjust the udp address and port
 
 ## External
 
