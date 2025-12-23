@@ -26,8 +26,11 @@ Internal refers to the game of life logic working at the lowest level of the dev
 * Check that Cela is connected to Ableton
 
 $^{1}$ - You may need to reconfigure your pin setup
+
 $^{2}$ - For Versions other than Windows you will need to check the Trellis Package from Adafruits
+
 $^{3}$ - You may need to update the COM6 to your Serial input port, again this will be different depending on if you are using something other than Windows
+
 $^{4}$ - You will only be able to have one Cela working at a time. You may need to adjust the udp address and port
 
 ## External
