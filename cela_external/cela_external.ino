@@ -29,7 +29,7 @@
 #define BPM_CL 11
 #define MTX_INT 13
 #define STEP 14
-#define LIGHT A3 
+#define LIGHT 3 
 #define TOGGLE_ONE 15
 #define TOGGLE_TWO 16
 // GRID
