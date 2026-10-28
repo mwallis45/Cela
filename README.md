@@ -65,4 +65,4 @@ Currently on Version 1.0.1 \
 Development of a VST version of Cela to be started soon.
 
 
-$^{Last Updated 28 Oct 2026}$
+$^{Last \space Updated \space 28 \space Oct \space 2026}$

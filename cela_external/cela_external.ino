@@ -1,6 +1,6 @@
 // CELA EXTERNAL
 // BUILT BY - MICHAEL WALLIS | 09/Dec/2025
-// Version 1.0.0
+// Version 1.0.1
 // =======================================
 // This code was made with the help of Google Gemini
 // To help define what was made, insipred by and anything else, each function has an icon to show what was used
